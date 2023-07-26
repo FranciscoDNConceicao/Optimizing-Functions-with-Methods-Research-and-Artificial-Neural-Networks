@@ -1,3 +1,4 @@
+## Optimizing Functions with Methods Research and Artificial Neural Networks
 Building and optimizing certain algorithms from scratch using Matlab: 
 * Hill-Climbing Algorithm
 * Simulated Annealing Algorithm
