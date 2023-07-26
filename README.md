@@ -1,4 +1,4 @@
-![imagem](https://github.com/FranciscoDNConceicao/Optimizing-Functions-with-Methods-Research-and-Artificial-Neural-Networks/assets/123041029/ba807d76-e3b9-4f59-8706-7b4b82937ee7)Building and optimizing certain algorithms from scratch using Matlab: 
+Building and optimizing certain algorithms from scratch using Matlab: 
 * Hill-Climbing Algorithm
 * Simulated Annealing Algorithm
 * Random Search Algorithm
