@@ -33,7 +33,7 @@ This was the result with 1000 iterations:
 
 ![imagem](https://github.com/FranciscoDNConceicao/Optimizing-Functions-with-Methods-Research-and-Artificial-Neural-Networks/assets/123041029/2b4d3163-fc92-40f8-9be5-01ad931a2cc0)
 
-#Artificial Neural Networks
+# Artificial Neural Networks
 For network training, we consider that of the 120 Exposures in the training set given, yields 40 Examples for each class. Using as requested the activation function sigmoid, a learning rate α = 0.9, and weights that are started randomly in the range [-1, 1] and 10000 training epochs.The following data set was used to test the network:
 
 ![imagem](https://github.com/FranciscoDNConceicao/Optimizing-Functions-with-Methods-Research-and-Artificial-Neural-Networks/assets/123041029/4e14d0d6-94f2-4423-8bcf-a6d0b287f051)
